@@ -1,0 +1,1 @@
+{"version":3,"file":"kelvin.test.js","sourceRoot":"","sources":["../../tests/kelvin.test.ts"],"names":[],"mappings":";;AAAA,gCAA8C;AAC9C,MAAM,SAAS,GAAG,IAAI,0BAAoB,CAAC,EAAE,eAAe,EAAE,QAAQ,EAAE,KAAK,EAAE,GAAG,EAAE,CAAC,CAAC;AAEtF,iGAAiG;AACjG,oGAAoG;AACpG,IAAI,CAAC,oCAAoC,EAAE,GAAG,EAAE,CAAC,MAAM,CAAC,SAAS,CAAC,MAAM,EAAE,CAAC,CAAC,IAAI,CAAC,SAAS,CAAC,CAAC,CAAC"}
