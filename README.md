@@ -1,3 +1,3 @@
 # Tempeconv
 
-Tempeconv is a javascript class to convert any temperatures.
+Tempeconv is a javascript lib to convert any temperatures.
